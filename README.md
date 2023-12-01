@@ -8,6 +8,7 @@
 | **[simple_HLM.ipynb]**              | A Jupyter notebook with a simple hierarchical linear model for predicting PV1MATH scores|
 | **[non-informative_priors_HLM.ipynb]**              | A Jupyter notebook with an HLM fit with specified non-informative priors|
 | **[equations.tex]**              | A LaTeX file with some example equations|
+| **[mixed_informative_priors_HLM.ipynb]**              | A Notebook with several models that use priors of various distribitions and mixed levels of information|
 
 
 [pisa2018.BayesBook.csv]: https://github.com/mhuang233/URS23_BayesML/blob/main/pisa2018.BayesBook.csv
@@ -15,3 +16,4 @@
 [simple_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/simple_HLM.ipynb
 [non-informative_priors_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/non-informative_priors_HLM.ipynb
 [equations.tex]: https://github.com/mhuang233/URS23_BayesML/blob/main/equations.tex
+[mixed_informative_priors_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/mixed_informative_priors_HLM.ipynb

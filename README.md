@@ -9,6 +9,8 @@
 | **[non-informative_priors_HLM.ipynb]**              | A Jupyter notebook with an HLM fit with specified non-informative priors|
 | **[equations.tex]**              | A LaTeX file with some example equations|
 | **[mixed_informative_priors.ipynb]**              | A Notebook with several models that use priors of various distribitions and mixed levels of information|
+| **[mixing.ipynb]**              | A Notebook with multivariate mixing of Bayesian models|
+| **[multivariate_optimization.ipynb]**              | Weighting and optimizing the mixing of HLMs|
 
 
 [pisa2018.BayesBook.csv]: https://github.com/mhuang233/URS23_BayesML/blob/main/pisa2018.BayesBook.csv
@@ -17,3 +19,5 @@
 [non-informative_priors_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/non-informative_priors_HLM.ipynb
 [equations.tex]: https://github.com/mhuang233/URS23_BayesML/blob/main/equations.tex
 [mixed_informative_priors.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/mixed_informative_priors.ipynb
+[mixing.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/mixing.ipynb
+[multivariate_optimization.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/multivariate_optimization.ipynb

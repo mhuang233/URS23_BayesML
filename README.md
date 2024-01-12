@@ -13,6 +13,22 @@
 | **[multivariate_optimization.ipynb]**              | Weighting and optimizing the mixing of HLMs|
 
 
+
+## Shortcomings of the Taweret Package
+ - The multivariate mixing method has immutable and untrainable weights
+ - The multi and bi variate mixing methods assume a one dimensional input space
+    - Step mixing doesn't work with a different dimensionality
+ - Is designed to work almost exculsively with BAND framework software and not other popular bayesian modeling packages
+    - PYMC is likely the most popular python bayesian modeling package
+    - It is worth noting that in python, ArviZ inference data is the output data of many well-established popular probabilistic models in python
+ - Installation is inconvienent
+    - BART is difficult to setup, especially if using Windows
+    - You can't simply install via a package manager and use out of the box
+
+  
+
+
+
 [pisa2018.BayesBook.csv]: https://github.com/mhuang233/URS23_BayesML/blob/main/pisa2018.BayesBook.csv
 [descriptive_stats.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/descriptive_stats.ipynb
 [simple_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/simple_HLM.ipynb

@@ -25,6 +25,7 @@
  - Installation is inconvienent
     - BART is very difficult to setup, especially if using Windows
     - You can't simply install via a package manager and use out of the box
+    - Especially difficult to use on Windows
 
   
 

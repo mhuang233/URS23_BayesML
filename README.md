@@ -11,6 +11,7 @@
 | **[mixed_informative_priors.ipynb]**              | A Notebook with several models that use priors of various distribitions and mixed levels of information|
 | **[mixing.ipynb]**              | A Notebook with multivariate mixing of Bayesian models|
 | **[multivariate_optimization.ipynb]**              | Weighting and optimizing the mixing of HLMs|
+| **[bart.ipynb]**              | Bayesian additive regression trees|
 
 
 
@@ -22,7 +23,7 @@
     - PYMC is likely the most popular python bayesian modeling package
     - It is worth noting that in python, ArviZ inference data is the output data of many well-established popular probabilistic models in python
  - Installation is inconvienent
-    - BART is difficult to setup, especially if using Windows
+    - BART is very difficult to setup, especially if using Windows
     - You can't simply install via a package manager and use out of the box
 
   
@@ -37,3 +38,4 @@
 [mixed_informative_priors.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/mixed_informative_priors.ipynb
 [mixing.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/mixing.ipynb
 [multivariate_optimization.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/multivariate_optimization.ipynb
+[bart.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/bart.ipynb

@@ -25,7 +25,7 @@
     - BART is very difficult to setup, especially if using Windows
     - You can't simply install via a package manager and use out of the box
     - Especially difficult to use on Windows
-    - 
+   
 ## ECLS-K 2011 Contents
 | File Name                                  | Description                  |
 | ------------------------------------------ | ---------------------------- |
@@ -44,4 +44,4 @@
 [bart.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/bart.ipynb
 
 [ECLS-K-2011.csv]: [https://drive.google.com/file/d/1xME0csseyNc0xeN-etA_KC9m8PYjDJlf/view?usp=sharing](https://uwmadison.app.box.com/file/1460848041410)
-[growth.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb
+[growth.ipynb]: [https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb](https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb)

@@ -30,7 +30,7 @@
 | File Name                                  | Description                  |
 | ------------------------------------------ | ---------------------------- |
 | **[ECLS-K-2011.csv]**               | The 2011 ECLS-K dataset        |
-| **[growth.csv]**               | A notebook with a simplistic exponetial growth model        |
+| **[growth.ipynb]**               | A notebook with a simplistic exponetial growth model        |
 
 
 [pisa2018.BayesBook.csv]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/pisa2018.BayesBook.csv
@@ -44,4 +44,4 @@
 [bart.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/bart.ipynb
 
 [ECLS-K-2011.csv]: https://uwmadison.app.box.com/file/1460848041410
-[growth.ipynb]:https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb
+[growth.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb

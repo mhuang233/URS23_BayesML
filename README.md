@@ -43,5 +43,5 @@
 [multivariate_optimization.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/multivariate_optimization.ipynb
 [bart.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/bart.ipynb
 
-[ECLS-K-2011.csv]: [https://drive.google.com/file/d/1xME0csseyNc0xeN-etA_KC9m8PYjDJlf/view?usp=sharing](https://uwmadison.app.box.com/file/1460848041410)
-[growth.ipynb]: [https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb](https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb)
+[ECLS-K-2011.csv]: https://uwmadison.app.box.com/file/1460848041410
+[growth.ipynb]:[https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb

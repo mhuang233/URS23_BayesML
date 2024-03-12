@@ -1,0 +1,46 @@
+---
+title: "BART Growth Model"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+```{r results = FALSE}
+set.seed(2347)
+library("BART")
+library("tidyverse")
+library("caret")
+```
+
+```{r results = FALSE}
+ECLSK2011 <- read_csv("ECLSK2011.csv") %>%
+  drop_na(MATH)
+
+train_index <- createDataPartition(ECLSK2011$TIME, p = 0.9, list = FALSE)
+
+x.train <- scale(ECLSK2011$TIME[train_index])
+y.train <- scale(ECLSK2011$MATH[train_index])
+
+x.test <- scale(ECLSK2011$TIME[-train_index])
+y.test <- scale(ECLSK2011$MATH[-train_index])
+```
+
+```{r}
+start_time <- Sys.time()
+post <- gbart(x.train, y.train, x.test)
+end_time <- Sys.time()
+```
+
+```{r}
+rmse <- function (y_pred, y_true)
+{
+  return(sqrt(mean((y_true - y_pred)^2)))
+}
+```
+
+```{r}
+print("Computation time is printed above")
+print(paste("In-sample prediction RMSE: ", (rmse(as.numeric(post$yhat.train.mean), y.train))))
+print(paste("Out-of-sample predictions RMSE: ", (rmse(as.numeric(post$yhat.test.mean), y.test))))
+```

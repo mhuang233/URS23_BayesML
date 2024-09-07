@@ -13,6 +13,18 @@
 | **[multivariate_optimization.ipynb]**              | Weighting and optimizing the mixing of HLMs|
 | **[bart.ipynb]**              | Bayesian additive regression trees|
 
+[pisa2018.BayesBook.csv]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/pisa2018.BayesBook.csv
+[descriptive_stats.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/descriptive_stats.ipynb
+[simple_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/simple_HLM.ipynb
+[non-informative_priors_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/non-informative_priors_HLM.ipynb
+[equations.tex]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/equations.tex
+[mixed_informative_priors.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/mixed_informative_priors.ipynb
+[mixing.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/mixing.ipynb
+[multivariate_optimization.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/multivariate_optimization.ipynb
+[bart.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/bart.ipynb
+
+[ECLS-K-2011.csv]: https://uwmadison.app.box.com/file/1460848041410
+[growth.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb
 
 ## Shortcomings of the Taweret Package
  - The multivariate mixing method has immutable and untrainable weights
@@ -32,16 +44,3 @@
 | **[ECLS-K-2011.csv]**               | The 2011 ECLS-K dataset        |
 | **[growth.ipynb]**               | A notebook with a simplistic exponetial growth model        |
 
-
-[pisa2018.BayesBook.csv]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/pisa2018.BayesBook.csv
-[descriptive_stats.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/descriptive_stats.ipynb
-[simple_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/simple_HLM.ipynb
-[non-informative_priors_HLM.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/non-informative_priors_HLM.ipynb
-[equations.tex]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/equations.tex
-[mixed_informative_priors.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/mixed_informative_priors.ipynb
-[mixing.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/mixing.ipynb
-[multivariate_optimization.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/multivariate_optimization.ipynb
-[bart.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/bart.ipynb
-
-[ECLS-K-2011.csv]: https://uwmadison.app.box.com/file/1460848041410
-[growth.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb

@@ -25,6 +25,12 @@
 
 [ECLS-K-2011.csv]: https://uwmadison.app.box.com/file/1460848041410
 [growth.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb
+   
+## ECLS-K 2011 Contents
+| File Name                                  | Description                  |
+| ------------------------------------------ | ---------------------------- |
+| **[ECLS-K-2011.csv]**               | The 2011 ECLS-K dataset        |
+| **[growth.ipynb]**               | A notebook with a simplistic exponetial growth model        |
 
 ## Shortcomings of the Taweret Package
  - The multivariate mixing method has immutable and untrainable weights
@@ -37,10 +43,3 @@
     - BART is very difficult to setup, especially if using Windows
     - You can't simply install via a package manager and use out of the box
     - Especially difficult to use on Windows
-   
-## ECLS-K 2011 Contents
-| File Name                                  | Description                  |
-| ------------------------------------------ | ---------------------------- |
-| **[ECLS-K-2011.csv]**               | The 2011 ECLS-K dataset        |
-| **[growth.ipynb]**               | A notebook with a simplistic exponetial growth model        |
-

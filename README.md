@@ -11,7 +11,7 @@
 | **[mixed_informative_priors.ipynb]**              | A Notebook with several models that use priors of various distribitions and mixed levels of information|
 | **[mixing.ipynb]**              | A Notebook with multivariate mixing of Bayesian models|
 | **[multivariate_optimization.ipynb]**              | Weighting and optimizing the mixing of HLMs|
-| **[bart.ipynb]**              | Bayesian additive regression trees|
+| **[BART.ipynb]**              | Bayesian additive regression trees|
 
 [pisa2018.BayesBook.csv]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/pisa2018.BayesBook.csv
 [descriptive_stats.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/descriptive_stats.ipynb
@@ -21,7 +21,7 @@
 [mixed_informative_priors.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/mixed_informative_priors.ipynb
 [mixing.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/mixing.ipynb
 [multivariate_optimization.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/multivariate_optimization.ipynb
-[bart.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/bart.ipynb
+[BART.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/PISA2018/bart.ipynb
 
 [ECLS-K-2011.csv]: https://uwmadison.app.box.com/file/1460848041410
 [growth.ipynb]: https://github.com/mhuang233/URS23_BayesML/blob/main/ECLSK2011/growth.ipynb

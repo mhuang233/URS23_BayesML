@@ -32,14 +32,14 @@
 | **[ECLS-K-2011.csv]**               | The 2011 ECLS-K dataset        |
 | **[growth.ipynb]**               | A notebook with a simplistic exponetial growth model        |
 
-## Shortcomings of the Taweret Package
- - The multivariate mixing method has immutable and untrainable weights
- - The multi and bi variate mixing methods assume a one dimensional input space
-    - Step mixing doesn't work with a different dimensionality
- - Is designed to work almost exculsively with BAND framework software and not other popular bayesian modeling packages
-    - PYMC is likely the most popular python bayesian modeling package
-    - It is worth noting that in python, ArviZ inference data is the output data of many well-established popular probabilistic models in python
- - Installation is inconvienent
-    - BART is very difficult to setup, especially if using Windows
-    - You can't simply install via a package manager and use out of the box
-    - Especially difficult to use on Windows
+## Limitations of the Taweret Package
+ - The multivariate mixing method has immutable and untrainable weights.
+ - The multi and bi-variate mixing methods assume a one-dimensional input space.
+    - Step mixing doesn't work with a different dimensionality.
+ - Is designed to work almost exclusively with BAND framework software and not other popular Bayesian modeling packages.
+    - PYMC is likely the most popular Python Bayesian modeling package.
+    - It is worth noting that in Python, ArviZ inference data is the output data of many well-established popular probabilistic models.
+ - Installation is inconvienent.
+    - BART is very difficult to set up, especially if using Windows.
+    - You can't simply install via a package manager and use out-of-the-box.
+    - Especially difficult to use on Windows.
